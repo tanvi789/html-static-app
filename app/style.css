@@ -1,3 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    text-align: center;
+    background-color: #1f485c;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.heading {
+    background-color: #f8ede5;
+}
+h1 {
+    color: #e4455e;
+    padding: 10px;
+    font-weight: 300;
+}
+
 .content {
     overflow: auto;
     border: 3px solid #666;
@@ -19,3 +38,22 @@
     background-color: #8ebf42;
 }
 
+.question {
+    padding: 10px;
+    background-color: #f8ede5;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.footer {
+    padding: 40px 0 80px 0;
+    color: #888;
+    background-color: #1f485c;
+    font-weight: 100;
+}
+.footer p {
+    margin: 10px;
+    color: #fff;
+}
+.footer p a {
+    color: #fff;
+}
