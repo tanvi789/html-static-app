@@ -1,0 +1,21 @@
+.content {
+    overflow: auto;
+    border: 3px solid #666;
+}
+.content div {
+    padding: 10px;
+}
+.content a {
+    color: darkblue;
+}
+.blue {
+    float: right;
+    width: 45%;
+    background-color: #1faadb;
+}
+.green {
+    float: left;
+    width: 35%;
+    background-color: #8ebf42;
+}
+
